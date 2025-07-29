@@ -9,24 +9,24 @@
       background: #0f172a;
       color: #f1f5f9;
       font-family: system-ui, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      text-align: center;
+      padding: 2rem;
       margin: 0;
-      padding: 1rem;
     }
     h1 {
       font-size: 2.5rem;
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.2rem;
+      text-align: center;
     }
     h2 {
       font-weight: normal;
       font-size: 1.5rem;
       color: #94a3b8;
-      margin-bottom: 1.5rem;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    .links {
+      text-align: center;
+      margin-bottom: 3rem;
     }
     a {
       color: #38bdf8;
@@ -37,16 +37,43 @@
     a:hover {
       text-decoration: underline;
     }
+    .project-card {
+      background: #1e293b;
+      padding: 1.5rem;
+      border-radius: 1rem;
+      max-width: 600px;
+      margin: 0 auto;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    .project-card h3 {
+      margin-top: 0;
+      font-size: 1.5rem;
+      color: #facc15;
+    }
+    .project-card p {
+      font-size: 1rem;
+      color: #cbd5e1;
+    }
+    .project-card a {
+      display: inline-block;
+      margin-top: 1rem;
+    }
   </style>
 </head>
 <body>
   <h1>👋 Hi, I'm Javier Castillo</h1>
   <h2>Full-Stack Developer & Data Analyst</h2>
-  <p>🚧 Portfolio under construction</p>
-  <p>
+  <div class="links">
     📫 <a href="mailto:javiercastillo.5445@gmail.com">Email</a> |
     💼 <a href="https://www.linkedin.com/in/javiercastillodev/" target="_blank">LinkedIn</a> |
     🐙 <a href="https://github.com/JavierDvlpr" target="_blank">GitHub</a>
-  </p>
+  </div>
+
+  <div class="project-card">
+    <h3>📊 CryptoWatch</h3>
+    <p>A real-time crypto dashboard with dark/light mode, dynamic charts, and top coin tracking. Built with Next.js, Tailwind, and CoinGecko API.</p>
+    <a href="https://cryptowatch-dzldvha6u-javier-castillo-arrietas-projects.vercel.app" target="_blank">🔗 Live Demo</a> |
+    <a href="https://github.com/JavierDvlpr/cryptowatch" target="_blank">📁 GitHub Repo</a>
+  </div>
 </body>
 </html>
