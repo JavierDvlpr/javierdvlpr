@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Javier Castillo
 
-<!--
-**JavierDvlpr/javierdvlpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full-Stack Developer & Data Analyst  
+💻 Passionate about building useful solutions with software, data, and a good cup of coffee.  
+📍 Based in Colombia
 
-Here are some ideas to get you started:
+🔗 **Portfolio:** [javierdvlpr.github.io/javierdvlpr](https://javierdvlpr.github.io/javierdvlpr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Tech I work with:
+- Frontend: React, Tailwind CSS, HTML, JavaScript  
+- Backend: Python, Django, Node.js  
+- Data: SQL, Pandas, Power BI
+
+📬 **Get in touch**  
+✉️ javiercastillo.5445@gmail.com  
+📱 +57 305 4077706  
+🌐 [LinkedIn](https://www.linkedin.com/in/javiercastillodev)
+
+<!-- Thanks for stopping by! -->
