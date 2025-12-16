@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Javier Castillo
 
-🎯 Full-Stack Developer & Data Analyst  
+🎯 Software Developer
 💻 Passionate about building useful solutions with software, data, and a good cup of coffee.  
 📍 Based in Colombia
 
